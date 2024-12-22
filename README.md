@@ -23,6 +23,7 @@ https://extensions.gnome.org/extension/2980/internet-speed-meter/
 https://extensions.gnome.org/extension/6733/crazy-internet-speed-meter/
 ```
 ### GDM Settings install/Uninstall
+> any linux distributions support
 ```
 $ sudo apt install gdm-settings libglib2.0-dev-bin
 $ gdm-settings
@@ -30,6 +31,7 @@ $ sudo apt remove --autoremove gdm-settings
 ```
 
 ### gnome-tweaks
+> any linux distributions support
 ```
 $ sudo apt install gnome-tweaks
 $ gnome-tweaks
