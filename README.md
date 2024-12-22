@@ -8,6 +8,13 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt full-upgrade
 ```
+### Unable to access location problems fixed
+> ubuntu ssd/hdd access problems fixed
+```
+$ sudo apt-get install nfs-common
+$ sudo apt-get install cifs-utils
+$ sudo ntfsfix -d /dev/sdb1
+```
 
 ### Linux internet speed meter
 > ubuntu `` live net speed on ubuntu panel ``
