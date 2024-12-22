@@ -8,3 +8,29 @@ $ sudo apt update
 $ sudo apt upgrade
 $ sudo apt full-upgrade
 ```
+
+### Linux internet speed meter
+> ubuntu `` live net speed on ubuntu panel ``
+```
+$ sudo apt install gnome-shell-extensions
+$ sudo apt-get install chrome-gnome-shell
+https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/
+
+internet speed meter extensions link
+https://extensions.gnome.org/extension/4478/net-speed/
+https://extensions.gnome.org/extension/7565/network-speed-monitor/ (best tools)
+https://extensions.gnome.org/extension/2980/internet-speed-meter/
+https://extensions.gnome.org/extension/6733/crazy-internet-speed-meter/
+```
+### GDM Settings install/Uninstall
+```
+$ sudo apt install gdm-settings libglib2.0-dev-bin
+$ gdm-settings
+$ sudo apt remove --autoremove gdm-settings
+```
+
+### gnome-tweaks
+```
+$ sudo apt install gnome-tweaks
+$ gnome-tweaks
+```
