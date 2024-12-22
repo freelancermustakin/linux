@@ -43,3 +43,9 @@ $ sudo apt remove --autoremove gdm-settings
 $ sudo apt install gnome-tweaks
 $ gnome-tweaks
 ```
+
+### Java install
+```
+$ sudo apt install openjdk-11-jdk
+$ java -version
+```
